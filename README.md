@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="nixGL logo: a triangular glass prism clamped on a black optics bench mount, one white beam entering it and fanning out into a clean rainbow spectrum across the dark bench" width="200"></p>
+
 ![Banner](banner.png)
 
 # NixGL
